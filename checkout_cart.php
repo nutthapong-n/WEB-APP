@@ -7,7 +7,7 @@ session_start();
 
 require('headAndFoot.inc.php');
 require("DBlink.inc.php");
-require("/Style_sheets/checkout_cart_style.php");
+require("Style_sheets/checkout_cart_style.php");
 
 
 //show_source("<checkout_cart.php>");
