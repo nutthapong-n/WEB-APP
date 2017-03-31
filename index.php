@@ -5,7 +5,7 @@
 	$press = $_GET["press"] ;
 
 	//get extendtion
-	require_once "/Style_sheets/index_CSS.php";
+	require_once "Style_sheets/index_CSS.php";
 	require_once "DBlink.inc.php";
 	require_once "db_user.inc.php";
 	require "home_controller.php";	 		

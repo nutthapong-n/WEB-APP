@@ -38,5 +38,5 @@
 </div> -->
 </body>
 <?php
-include "/Style_sheets/FootAndHead_CSS.php";
+include "Style_sheets/FootAndHead_CSS.php";
 ?>

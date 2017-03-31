@@ -20,7 +20,7 @@ $member = $_SESSION["member"];
 
 require('headAndFoot.inc.php');
 require("DBlink.inc.php");
-require("/Style_sheets/checkout_cart_style.php");	
+require("Style_sheets/checkout_cart_style.php");	
 require "db_user.inc.php" ;
 
 function __autoload($class_name)
