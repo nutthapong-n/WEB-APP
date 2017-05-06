@@ -12,7 +12,7 @@
 		else
 			$productString = $productString.$res->product_name;
 	}
-		// echo $productString;
+		// echo $productString;	
 ?>
 <html> 
 <head>
